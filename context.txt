@@ -1,0 +1,4 @@
+# GitHub RAG Context for rishabh3562
+- GitHub handle: rishabh3562
+- Personal access token stored at /root/.hermes/github_pat.txt
+- Use this folder to store notes, snippets, or summaries for quick retrieval.

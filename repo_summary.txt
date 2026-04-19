@@ -1,0 +1,6 @@
+GitHub stats for rishabh3562:
+Total public repos: 160
+Total stars: 88
+Total forks: 51
+Most starred repo: BotHive (8★)
+Top languages: JavaScript (58), TypeScript (32), Python (17)

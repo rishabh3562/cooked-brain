@@ -1,0 +1,1581 @@
+{
+  "total_repos": 160,
+  "total_stars": 88,
+  "total_forks": 51,
+  "most_starred": {
+    "description": "A platform for AI builders to list, sell, and promote AI agents, while businesses can discover, purchase, and integrate these solutions\u2014or hire builders for custom AI development",
+    "forkCount": 7,
+    "name": "BotHive",
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "stargazerCount": 8,
+    "updatedAt": "2026-02-15T08:50:33Z"
+  },
+  "language_distribution": {
+    "CSS": 3,
+    "C#": 4,
+    "JavaScript": 58,
+    "HTML": 7,
+    "Python": 17,
+    "TypeScript": 32,
+    "Jupyter Notebook": 9,
+    "C++": 3,
+    "Java": 1,
+    "C": 2
+  },
+  "repos": [
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "palantir-feedback-loop",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2026-03-31T18:47:09Z"
+    },
+    {
+      "description": "class component and redux , this repo is purely for study purposes",
+      "forkCount": 1,
+      "name": "React-the-long-wayyy",
+      "primaryLanguage": {
+        "name": "CSS"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2026-03-17T19:28:07Z"
+    },
+    {
+      "description": "agentic + classical ML and DL practice in this repo",
+      "forkCount": 0,
+      "name": "AI-practice",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2026-03-02T14:35:39Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "python-practice",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2026-02-19T03:46:41Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "c-hash-cafeteria-management-system",
+      "primaryLanguage": {
+        "name": "C#"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2026-02-05T18:38:13Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "js-practice",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2026-02-03T18:45:38Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "dotent-c-hash-practice",
+      "primaryLanguage": {
+        "name": "C#"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2026-01-19T18:05:41Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "exercism",
+      "primaryLanguage": {
+        "name": "C#"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2026-01-16T21:10:58Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "c--bank-admin",
+      "primaryLanguage": {
+        "name": "C#"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2026-01-14T16:57:45Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "simple-login-signup-form",
+      "primaryLanguage": {
+        "name": "CSS"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2026-01-13T17:21:19Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "linear-clone",
+      "primaryLanguage": {
+        "name": "HTML"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2026-01-11T18:46:15Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "College-data-transformation",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-12-22T06:51:10Z"
+    },
+    {
+      "description": "repository to practice typescript",
+      "forkCount": 0,
+      "name": "ts-practice",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-12-09T08:52:35Z"
+    },
+    {
+      "description": "Personal knowledge management app - Organize learning into chapters with rich   content blocks, drag-and-drop editing, and visual knowledge graph mapping. Built with         Next.js 14, Supabase, and TypeScript.",
+      "forkCount": 0,
+      "name": "Knowledger",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-12-06T08:29:38Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "chatapp-yt-microservices",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-12-05T10:35:59Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "g3-backend-tut",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-12-03T04:49:07Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "g4-backend-tut",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-12-01T06:27:41Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "react-tut",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-12-01T04:30:02Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "g2-backend-tut",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-11-28T10:00:26Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "microservice-uber-js",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-11-28T07:49:11Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "g1-backend-tut",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-11-28T04:57:10Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "blog-backend-tut-js",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-11-21T08:24:37Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "session-auth-flow",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2025-11-17T17:56:23Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Bearer-token-based-auth-flow",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2025-11-17T17:56:03Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "cookie-based-auth",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2025-11-17T17:55:35Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "rough",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2025-11-16T15:41:31Z"
+    },
+    {
+      "description": "The community-driven developer toolbox \u2014 built by developers, for developers.",
+      "forkCount": 12,
+      "name": "ToolBox",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 4,
+      "updatedAt": "2025-12-09T05:07:02Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "aicte_colleges",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-12-08T05:47:28Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "HSA-N",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-11-03T19:16:25Z"
+    },
+    {
+      "description": "my github bot for opensource",
+      "forkCount": 0,
+      "name": "GitMind",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-11-03T10:18:03Z"
+    },
+    {
+      "description": "doubt to be solved (alok)",
+      "forkCount": 0,
+      "name": "DevOrbit",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-11-03T04:16:03Z"
+    },
+    {
+      "description": "A platform for AI builders to list, sell, and promote AI agents, while businesses can discover, purchase, and integrate these solutions\u2014or hire builders for custom AI development",
+      "forkCount": 7,
+      "name": "BotHive",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 8,
+      "updatedAt": "2026-02-15T08:50:33Z"
+    },
+    {
+      "description": "Config files for my GitHub profile.",
+      "forkCount": 0,
+      "name": "rishabh3562",
+      "primaryLanguage": null,
+      "stargazerCount": 4,
+      "updatedAt": "2025-12-08T18:46:40Z"
+    },
+    {
+      "description": "\ud83d\udd25 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution",
+      "forkCount": 0,
+      "name": "open-agent-builder",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-10-23T09:44:01Z"
+    },
+    {
+      "description": "An Image sorter that sorts photos based on face encodings in it.",
+      "forkCount": 0,
+      "name": "PictoPy",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-10-19T19:08:42Z"
+    },
+    {
+      "description": "https://prompt-forge-js.lovable.app/",
+      "forkCount": 0,
+      "name": "prompt-forge-ts",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-10-19T11:52:08Z"
+    },
+    {
+      "description": "Welcome! This repository is designed for first-time contributors to Hacktoberfest. The idea: push your own small code examples in your preferred language under the language folder.",
+      "forkCount": 0,
+      "name": "CodeVault",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-10-17T04:06:12Z"
+    },
+    {
+      "description": "journal application for logging thing you watch and read ",
+      "forkCount": 0,
+      "name": "AniNotion",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-10-16T06:28:39Z"
+    },
+    {
+      "description": "A boilerplate for Node.js web applications",
+      "forkCount": 0,
+      "name": "hackathon-starter",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-10-15T11:08:08Z"
+    },
+    {
+      "description": "Devr.AI is an advanced AI-powered Developer Relations (DevRel) assistant designed to revolutionize open-source community management. By integrating with platforms like Discord, Slack, GitHub, and Discourse, Devr.AI functions as a virtual DevRel advocate that helps maintainers engage with contributors and streamline onboarding processes.",
+      "forkCount": 0,
+      "name": "Devr.AI",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-10-19T19:08:51Z"
+    },
+    {
+      "description": "This repository is created purely for learning and practice purposes",
+      "forkCount": 19,
+      "name": "first-contribution-guide",
+      "primaryLanguage": null,
+      "stargazerCount": 1,
+      "updatedAt": "2025-10-13T09:32:23Z"
+    },
+    {
+      "description": "collection of Profile readme templates",
+      "forkCount": 0,
+      "name": "profile-readme-templates",
+      "primaryLanguage": {
+        "name": "HTML"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-10-13T08:36:20Z"
+    },
+    {
+      "description": "Meteor, the JavaScript App Platform",
+      "forkCount": 0,
+      "name": "meteor",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-10-10T05:58:50Z"
+    },
+    {
+      "description": "pipeline created to fix db issues ",
+      "forkCount": 0,
+      "name": "college-data-pipeline",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-10-01T10:25:55Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "volt-bnb",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-09-18T09:32:46Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "prompt-forge",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2025-08-26T20:19:47Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "content-generation-prompts",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-08-26T19:50:47Z"
+    },
+    {
+      "description": "Dev insights from GitHub, straight into your Slack.",
+      "forkCount": 1,
+      "name": "CommitIQ",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 2,
+      "updatedAt": "2025-08-21T16:38:58Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "commitiq-langsmith",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-08-21T16:21:04Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "fastapi-blocking-test",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-08-19T09:23:11Z"
+    },
+    {
+      "description": "React-based visual pipeline builder with drag-and-drop nodes, real-time DAG validation, and rich node types. Built with React Flow, Zustand, and Framer Motion for seamless workflow creation and live feedback.",
+      "forkCount": 0,
+      "name": "vector-shift-yc-assignment",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-08-10T09:58:18Z"
+    },
+    {
+      "description": "Pocket Flow: Codebase to Tutorial",
+      "forkCount": 0,
+      "name": "PocketFlow-Tutorial-Codebase-Knowledge",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-08-03T17:24:48Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "portfolio-nextjs",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-07-27T14:51:54Z"
+    },
+    {
+      "description": "3D world map visualizing exchange server locations and real-time/historical latency data across AWS, GCP, and Azure co-location regions for cryptocurrency trading infrastructure.",
+      "forkCount": 0,
+      "name": "Latency-Topology-Visualizer",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-07-27T10:46:12Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "topmate-site-web-consultation",
+      "primaryLanguage": {
+        "name": "HTML"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-07-22T08:03:12Z"
+    },
+    {
+      "description": "this is a website made for my web dev service , made by topmate , simple html",
+      "forkCount": 0,
+      "name": "topmate-site-webdev-consulation-",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2025-07-22T07:40:09Z"
+    },
+    {
+      "description": "EduSolve is an AI-powered doubt-solving platform that helps teachers efficiently manage and respond to student queries using Supabase, Next.js 13",
+      "forkCount": 0,
+      "name": "EduSolve",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 5,
+      "updatedAt": "2026-02-22T18:36:58Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "PromptOps-website",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-07-12T09:01:44Z"
+    },
+    {
+      "description": "Repo for the Complete Agentic AI Engineering Course",
+      "forkCount": 0,
+      "name": "agents",
+      "primaryLanguage": {
+        "name": "Jupyter Notebook"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-06-04T15:59:27Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "fika-ai-engineering-insights-bot",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-07-09T21:44:40Z"
+    },
+    {
+      "description": "PromptOps is a local-first automation framework that uses LLMs to mimic human actions\u2014typing, clicking, reading screens\u2014to execute complex tasks from natural language prompts.",
+      "forkCount": 0,
+      "name": "PromptOps",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2026-02-22T18:34:10Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "InsightPulse",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2025-06-19T22:07:14Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "SharpScale",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2025-06-19T21:59:44Z"
+    },
+    {
+      "description": "promptops-operator",
+      "forkCount": 0,
+      "name": "promptops-operator",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-06-11T10:33:16Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "onestream-ts",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-06-06T21:45:58Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "youtube-upload-nextjs-ts",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-06-06T21:31:47Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "riya-dubey-radiology-profile",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-06-05T06:58:16Z"
+    },
+    {
+      "description": "A lightweight SDK to build Gemini 1.5-based tool-using agents in Python \u2014 inspired by OpenAI's Agents SDK but powered by Google's Gemini API.",
+      "forkCount": 0,
+      "name": "gemagent-sdk",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 2,
+      "updatedAt": "2025-06-28T12:13:20Z"
+    },
+    {
+      "description": "Repo for the Complete Agentic AI Engineering Course",
+      "forkCount": 0,
+      "name": "agents-ed",
+      "primaryLanguage": {
+        "name": "Jupyter Notebook"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-06-02T13:38:49Z"
+    },
+    {
+      "description": "A simple AI Agent that mimics the user described in profile.pdf and summary.txt",
+      "forkCount": 0,
+      "name": "Agentic-chatbot-me",
+      "primaryLanguage": {
+        "name": "Jupyter Notebook"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-05-26T05:31:37Z"
+    },
+    {
+      "description": "Basic Flask CRUD operation",
+      "forkCount": 0,
+      "name": "flask-crud",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-05-16T10:16:55Z"
+    },
+    {
+      "description": "simple disease prediction website ",
+      "forkCount": 0,
+      "name": "Disease-Prediction",
+      "primaryLanguage": {
+        "name": "Jupyter Notebook"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-05-15T20:53:29Z"
+    },
+    {
+      "description": "Basic RBAC backend",
+      "forkCount": 0,
+      "name": "RBAC-MERN",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-04-19T15:06:23Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "rishabh-portfolio-crafted",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-04-19T15:06:22Z"
+    },
+    {
+      "description": "About Work in progress: Lightweight tool for analyzing code repositories, generating structured documentation, and creating project context for AI agents like ChatGPT. Features repo fetching, doc generation, and context summary creation.",
+      "forkCount": 0,
+      "name": "Codenote-ai",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 2,
+      "updatedAt": "2025-11-15T08:49:05Z"
+    },
+    {
+      "description": "",
+      "forkCount": 1,
+      "name": "House-prediction-linear-reg",
+      "primaryLanguage": {
+        "name": "Jupyter Notebook"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-04-19T15:06:17Z"
+    },
+    {
+      "description": "simple backend just to test and explore how to load and deploy ml models in express",
+      "forkCount": 0,
+      "name": "nodejs-ml-deployed",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-04-19T15:06:16Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "sentiment-analysis-chatbot-python",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 2,
+      "updatedAt": "2025-04-11T18:34:38Z"
+    },
+    {
+      "description": "A simple chatbot built with TypeScript and the Gemini API, utilizing sentiment analysis with an event-stream architecture.",
+      "forkCount": 0,
+      "name": "sentiment-analysis-chatbot-js",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 2,
+      "updatedAt": "2025-04-19T15:06:07Z"
+    },
+    {
+      "description": "Sentiment-analyzer made using python and streamlit",
+      "forkCount": 0,
+      "name": "Sentiment-analyzer",
+      "primaryLanguage": {
+        "name": "Jupyter Notebook"
+      },
+      "stargazerCount": 2,
+      "updatedAt": "2025-04-19T15:06:08Z"
+    },
+    {
+      "description": "platform designed to assist users in understanding and managing their health Leveraging the capabilities of machine learning",
+      "forkCount": 0,
+      "name": "medicine-recommendation",
+      "primaryLanguage": {
+        "name": "Jupyter Notebook"
+      },
+      "stargazerCount": 2,
+      "updatedAt": "2025-04-19T15:06:10Z"
+    },
+    {
+      "description": "Simple EDA for ipl data set",
+      "forkCount": 0,
+      "name": "IPL-Analysis",
+      "primaryLanguage": {
+        "name": "Jupyter Notebook"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-11-15T08:49:01Z"
+    },
+    {
+      "description": "DA ",
+      "forkCount": 0,
+      "name": "DA",
+      "primaryLanguage": {
+        "name": "Jupyter Notebook"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-04-19T15:06:13Z"
+    },
+    {
+      "description": "This is a repo for the college shodh admin panel web interface",
+      "forkCount": 0,
+      "name": "me-college-shodh-admin-react",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-02-06T09:05:35Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "throw-bag",
+      "primaryLanguage": {
+        "name": "HTML"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-02-08T16:40:03Z"
+    },
+    {
+      "description": "A modular background job queue system for handling heavy processing tasks with scalable infrastructure.",
+      "forkCount": 0,
+      "name": "TaskFlux",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-02-06T20:39:56Z"
+    },
+    {
+      "description": "AI-Powered API & Asset CDN",
+      "forkCount": 0,
+      "name": "EdgeBoost",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2025-02-06T16:42:34Z"
+    },
+    {
+      "description": "Scalable File Streaming & Chunking",
+      "forkCount": 0,
+      "name": "FlowByte",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2025-02-06T16:41:37Z"
+    },
+    {
+      "description": "Chatgpt vagera mai kya kya research karta hu , uske liye hai , achi research store karlunga",
+      "forkCount": 0,
+      "name": "Readme-research",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2025-02-03T09:01:49Z"
+    },
+    {
+      "description": "Work in progress: Lightweight tool for analyzing code repositories, generating structured documentation, and creating project context for AI agents like ChatGPT. Features repo fetching, doc generation, and context summary creation.",
+      "forkCount": 0,
+      "name": "CodeNote",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-02-02T19:29:15Z"
+    },
+    {
+      "description": "NextJS version of college shodh.",
+      "forkCount": 0,
+      "name": "college-shodh-nextjs-me",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-01-29T06:34:15Z"
+    },
+    {
+      "description": "my pinboard weblinks",
+      "forkCount": 0,
+      "name": "LinkSphere",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-01-20T12:23:33Z"
+    },
+    {
+      "description": "NextJS version of college shodh.",
+      "forkCount": 0,
+      "name": "college-shodh-nextjs",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-01-27T17:44:39Z"
+    },
+    {
+      "description": "Collabwrite: A collaborative diagramming tool . Real-time canvas, chat, and seamless teamwork, built with Next.js and Appwrite.",
+      "forkCount": 2,
+      "name": "collab-tool",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 3,
+      "updatedAt": "2025-09-02T16:17:17Z"
+    },
+    {
+      "description": "ToDo \u2013 A simple to-do Website built with Next.js and Zustand for state management.",
+      "forkCount": 0,
+      "name": "ToDo",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-01-27T17:44:41Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "StreamSync",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-01-27T17:44:42Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Piccaso",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-12-02T13:57:33Z"
+    },
+    {
+      "description": "Quickart is a seamless e-commerce web app built with React, Next.js, and Node.js, offering a smooth shopping experience with PWA support. Explore, shop, and enjoy offline access with optimized SEO features.",
+      "forkCount": 0,
+      "name": "Quickart",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-06-22T15:12:46Z"
+    },
+    {
+      "description": "A powerful tool to bring code structure into focus with vibrant, interactive visualizations. Enhance readability, spot patterns, and gain insights like never before.",
+      "forkCount": 0,
+      "name": "CodeLenz",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2024-11-28T11:55:32Z"
+    },
+    {
+      "description": "Streamline your invoice processing with AI-powered data extraction and intelligent management tools.",
+      "forkCount": 0,
+      "name": "ParsePro-AI",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 3,
+      "updatedAt": "2026-03-08T23:57:19Z"
+    },
+    {
+      "description": "coneixement-assignment-backend",
+      "forkCount": 0,
+      "name": "coneixement-assignment-backend",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-11-27T11:50:24Z"
+    },
+    {
+      "description": "Streamline your invoice processing with AI-powered data extraction and intelligent management tools.",
+      "forkCount": 0,
+      "name": "swipe-intern-assignment",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-04-10T09:14:14Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "dev-vs-dsa",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-11-14T19:16:13Z"
+    },
+    {
+      "description": "UniHub: Your ultimate college companion. Discover internships, alumni networks, academic tests, and forge friendships. Seamlessly connect with resources and opportunities to enrich your college journey.",
+      "forkCount": 2,
+      "name": "UniHub",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 2,
+      "updatedAt": "2024-11-27T07:43:27Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "LinkTree",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-11-08T13:41:09Z"
+    },
+    {
+      "description": "CodeCraft is an advanced code beautifier that empowers developers to efficiently format, share, and display their code. It supports a diverse set of programming languages, generates shareable syntax-highlighted code snapshots, and provides comprehensive analytics on link interactions.",
+      "forkCount": 0,
+      "name": "CodeCraft",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-11-08T10:58:11Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "DSA-Cp",
+      "primaryLanguage": {
+        "name": "C++"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2024-11-02T20:45:30Z"
+    },
+    {
+      "description": "VScode Folder",
+      "forkCount": 0,
+      "name": "Mycode",
+      "primaryLanguage": {
+        "name": "C++"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-10-29T10:55:32Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "YouTube-Lectures-Manager",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-10-19T14:35:38Z"
+    },
+    {
+      "description": "Work in Progress : ReferUp is a referral system built with Next.js, Prisma, and PostgreSQL , allowing users to generate unique referral codes, track referrals, and earn rewards for successful sign-ups or purchases.",
+      "forkCount": 0,
+      "name": "ReferUp",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-10-17T04:18:12Z"
+    },
+    {
+      "description": "template for nextjs + prisma+postgresql",
+      "forkCount": 0,
+      "name": "next-prisma-postgresql-template",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-10-14T11:53:59Z"
+    },
+    {
+      "description": "my custom made website for my usage that are frequent",
+      "forkCount": 0,
+      "name": "MyTools",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-10-12T08:34:07Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "MERN-stack",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2024-10-10T00:40:28Z"
+    },
+    {
+      "description": "portfolio website ",
+      "forkCount": 0,
+      "name": "portfolio",
+      "primaryLanguage": {
+        "name": "CSS"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-10-05T23:26:07Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "lodging-website",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-01-27T17:44:55Z"
+    },
+    {
+      "description": "Shortly: A MERN stack URL shortener that not only simplifies links but also provides detailed analytics on clicks and engagement, all in real-time",
+      "forkCount": 1,
+      "name": "Shortly",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2024-11-27T07:42:04Z"
+    },
+    {
+      "description": "env: https://docs.google.com/document/d/1nCx7cT-vy4s-Q9GlOqGckLh3rslhmFV-EKIVQRkPwDU/edit?usp=sharing",
+      "forkCount": 0,
+      "name": "MERN-TEMPLATE-SKAI-LAMA",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-09-23T22:15:25Z"
+    },
+    {
+      "description": "OneStream: Simplifying video management with secure authentication, AWS S3 storage, and YouTube API integration. Effortlessly create, edit, and distribute content across platforms.",
+      "forkCount": 1,
+      "name": "oneStream",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 5,
+      "updatedAt": "2025-12-04T11:19:38Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Tiffin",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-09-22T20:59:37Z"
+    },
+    {
+      "description": "Contribute to You-Wrtie by adding your ideas, creating pull requests, and watching them get approved. Simple steps, big impact. Let's collaborate and innovate together!",
+      "forkCount": 1,
+      "name": "You-Write",
+      "primaryLanguage": null,
+      "stargazerCount": 3,
+      "updatedAt": "2024-11-27T07:42:21Z"
+    },
+    {
+      "description": "assignment repository for bytemonk",
+      "forkCount": 0,
+      "name": "ByteMonk-Frontend-Intern-Assignment",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-04-13T09:34:30Z"
+    },
+    {
+      "description": "Basic shopping cart application built with Next.js. Features product listing, cart management, and basic checkout functionality. Lacks authentication, payment integration, and advanced features. Ideal for learning and experimentation.",
+      "forkCount": 0,
+      "name": "Profile.fyi---Assignment",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-08-23T12:07:40Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "wipro-java",
+      "primaryLanguage": {
+        "name": "Java"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-08-08T21:29:53Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Skai-Lama-FTE",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2025-01-27T17:44:59Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "MacroHackery",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2024-05-22T17:26:29Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "nodejs-serverless-function-express",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-04-28T11:40:04Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "3lance",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-08-08T21:32:43Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "3Lanze",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-08-08T21:33:06Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "MoodTunes",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-05-09T09:39:01Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Portfolio-react-firebase3",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2024-02-16T15:58:45Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Portfolio-react-firebase",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-02-16T15:57:16Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Optus",
+      "primaryLanguage": {
+        "name": "C++"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-08-08T21:34:02Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "HireQuotient",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2023-12-02T07:55:31Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "BACKEND-INTERN---ASSIGNMENT",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2023-11-10T05:18:18Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "E-Comm-MERN",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2023-12-24T10:41:03Z"
+    },
+    {
+      "description": "\ud83d\ude80\u2728 Help beginners to contribute to open source projects",
+      "forkCount": 0,
+      "name": "first-contributions",
+      "primaryLanguage": null,
+      "stargazerCount": 1,
+      "updatedAt": "2025-01-27T17:45:02Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Url-Shortener-Backend",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2024-11-27T07:42:39Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "SIH-Project",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2023-09-21T19:07:21Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "C4-team-6",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2023-10-20T18:48:29Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "assets",
+      "primaryLanguage": null,
+      "stargazerCount": 0,
+      "updatedAt": "2023-08-27T19:21:52Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Covid19-Tracker",
+      "primaryLanguage": {
+        "name": "TypeScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2023-08-23T08:40:04Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Project-Tracker",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2024-08-08T21:41:38Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "instagram-data-json-",
+      "primaryLanguage": {
+        "name": "HTML"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2023-07-29T13:26:06Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "instagram-data-HTML-",
+      "primaryLanguage": {
+        "name": "HTML"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2023-07-29T12:41:13Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Arduino-Nano-BLE-33-codes",
+      "primaryLanguage": null,
+      "stargazerCount": 1,
+      "updatedAt": "2025-01-20T21:26:58Z"
+    },
+    {
+      "description": "Create and manage blogs effortlessly with our MERN stack website, featuring user authentication, dynamic posts, comments, and seamless search functionality. Powered by React, Node.js, and MongoDB.",
+      "forkCount": 2,
+      "name": "Blog-Web-App",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 3,
+      "updatedAt": "2025-11-26T19:14:08Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "ADA-codes",
+      "primaryLanguage": {
+        "name": "C"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-08-08T21:43:52Z"
+    },
+    {
+      "description": "Url Shortener using MERN",
+      "forkCount": 0,
+      "name": "Zip-Link",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2023-07-14T20:56:16Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "To-Do-GraphQL",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-08-08T21:44:55Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Spotify-Clone",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 2,
+      "updatedAt": "2024-11-27T07:42:54Z"
+    },
+    {
+      "description": "Starter repo for task 1 of the JPMC software engineering program",
+      "forkCount": 0,
+      "name": "forage-jpmc-swe-task-1",
+      "primaryLanguage": {
+        "name": "Python"
+      },
+      "stargazerCount": 1,
+      "updatedAt": "2023-07-09T11:25:02Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "pickmart_FL",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2023-05-13T14:25:42Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "OS",
+      "primaryLanguage": {
+        "name": "C"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-08-08T21:46:58Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Aasabie",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2023-05-19T10:09:27Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Figma-UI-Task",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2023-04-25T18:42:22Z"
+    },
+    {
+      "description": "",
+      "forkCount": 1,
+      "name": "Sample-Backend",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 2,
+      "updatedAt": "2024-11-27T07:42:58Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "sample-backend-2",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2024-08-08T22:08:41Z"
+    },
+    {
+      "description": "",
+      "forkCount": 0,
+      "name": "Crypto-App-Frontend",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 2,
+      "updatedAt": "2025-01-05T07:25:10Z"
+    },
+    {
+      "description": "side project for pair programming",
+      "forkCount": 0,
+      "name": "We-Code",
+      "primaryLanguage": {
+        "name": "JavaScript"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-04-13T08:54:56Z"
+    },
+    {
+      "description": "basic HTML CSS JS Calc (BTW Calc is short form of calculator chat)",
+      "forkCount": 0,
+      "name": "Calculator-project",
+      "primaryLanguage": {
+        "name": "HTML"
+      },
+      "stargazerCount": 0,
+      "updatedAt": "2025-04-13T08:43:03Z"
+    }
+  ]
+}
